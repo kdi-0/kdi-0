@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdi-0&hide=vim%20script,javascript,jupyter%20notebook,html,gsls,powershell&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdi-0&hide=vim%20script,javascript,jupyter%20notebook,html,gsls,powershell&langs_count=4&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
