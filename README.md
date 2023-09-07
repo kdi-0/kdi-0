@@ -4,7 +4,7 @@
 **kdi-0/kdi-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-- 📚 CS Student looking for full-time roles 
+- 📚 Senior CS Student looking for full-time roles 
 - 🌱 Currently obsessed with Python 🐍
 - 😄 Pronouns: he/him
   
